@@ -5,7 +5,7 @@
 
 ## Mål för veckan
 1. Förstå hur boxmodellen fungerar i CSS, inklusive skillnaden mellan `content`, `padding`, `border` och `margin`, samt kunna använda `box-sizing` för att kontrollera layoutbeteende.  
-2. Kunna positionera element med `position` (static, relative, absolute, fixed, sticky) och förstå dess påverkan på layoutflödet.  
+2. Kunna positionera element med `position` (static, relative, fixed, sticky) och förstå dess påverkan på layoutflödet.  
 3. Förstå och kunna använda logiska egenskaper som `margin-inline`, `padding-block`, `border-inline-start` m.fl. för att skapa mer flexibla och språkoberoende layouter.  
 4. Kunskap om grunderna i Flexbox, inklusive egenskaper som `display: flex`, `justify-content`, `align-items`, och `flex-direction`, samt kunna skapa enkla layouts med horisontell eller vertikal fördelning.  
 5. Fördjupad förståelse för Flexbox med `flex-grow`, `flex-shrink`, `flex-basis` och den sammansatta `flex`-egenskapen, samt kunna bygga mer dynamiska komponenter.  
