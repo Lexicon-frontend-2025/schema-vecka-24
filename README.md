@@ -8,9 +8,8 @@
 2. Kunna positionera element med `position` (static, relative, fixed, sticky) och förstå dess påverkan på layoutflödet.  
 3. Förstå och kunna använda logiska egenskaper som `margin-inline`, `padding-block`, `border-inline-start` m.fl. för att skapa mer flexibla och språkoberoende layouter.  
 4. Kunskap om grunderna i Flexbox, inklusive egenskaper som `display: flex`, `justify-content`, `align-items`, och `flex-direction`, samt kunna skapa enkla layouts med horisontell eller vertikal fördelning.  
-5. Fördjupad förståelse för Flexbox med `flex-grow`, `flex-shrink`, `flex-basis` och den sammansatta `flex`-egenskapen, samt kunna bygga mer dynamiska komponenter.  
-6. Förståelse för CSS Grid, inklusive `grid-template-columns/rows`, `grid-gap`, `grid-column/row`, samt alignment-egenskaper som `justify-items`, `align-content` m.fl.  
-7. Känna till och kunna tillämpa `subgrid` för att ärva kolumn- eller radstruktur från en förälder och därmed skapa konsekventa, återanvändbara layouts.
+5. Förståelse för CSS Grid, inklusive `grid-template-columns/rows`, `grid-gap`, `grid-column/row`, samt alignment-egenskaper som `justify-items`, `align-content` m.fl.  
+6. Känna till och kunna tillämpa `subgrid` för att ärva kolumn- eller radstruktur från en förälder och därmed skapa konsekventa, återanvändbara layouts.
 
 
 ## Material
