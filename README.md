@@ -39,8 +39,8 @@
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
 
 ## Lektionsrepon
-* [Måndag] - Box model, Logical properties (Padding/margin/border-inline/block).
-* [Tisdag] - Flexbox grunder. Justify, align m.m.
-* [Onsdag] - Flex fortsättning. Flex-grow, basis m.m.
-* [Torsdag] - Grid, template, order, span, alignment osv.
-* [Fredag] - Subgrid, ev code review på delmoment?
+* [Måndag] - Box model, Logical properties (Padding/margin/border-inline/block). Intro till Planned Planthood. 
+* [Tisdag] - Flexbox grunder. Justify, align m.m. Jobb med Flexbox Bootcamp.
+* [Onsdag] - Grid, template, order, span, alignment osv. Jobb med Grid Bootcamp.
+* [Torsdag] - Subgrid. Jobb med Flexbox Bootcamp, Grid Bootcamp och Planned Planthood.
+* [Fredag] - Code review på HTML på Planned Planthood. Eget arbete.
