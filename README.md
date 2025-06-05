@@ -1,4 +1,4 @@
-# SCHEMA VECKA 25
+# SCHEMA VECKA 24
 Övergripande schema över veckan
 
 ###### HTML/CSS, vecka 3 av 5
