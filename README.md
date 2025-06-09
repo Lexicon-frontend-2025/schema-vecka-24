@@ -29,7 +29,7 @@
 * 
 
 ## Övningar
-* [Planned Planthood]
+* [Planned Planthood](https://github.com/Robert-Lexicon/Uppgift-PlannedPlanthood/blob/main/README.md)
 * [Flexbox Bootcamp]
 * [Grid Bootcamp]
 
