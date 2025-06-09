@@ -22,6 +22,7 @@
 * [CSS Unit Flowchart](https://www.youtube.com/watch?v=Utc_uhvTluk)
 * [Flexbox, Kevin Powell](https://www.youtube.com/watch?v=u044iM9xsWU)
 * [CSS Grid, Kevin Powell](https://www.youtube.com/watch?v=rg7Fvvl3taU)
+* [CSS Grid alignment](https://www.youtube.com/watch?v=WvoYYok1Ddo)
 * [Subgrids, Kevin Powell](https://www.youtube.com/watch?v=IIQa9f0REtM)
 
 #### Läsning
