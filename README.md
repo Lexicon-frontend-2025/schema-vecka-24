@@ -35,6 +35,7 @@
 * [Grid Bootcamp]
 
 ## Slides
+* [CSS Flexbox](https://docs.google.com/presentation/d/1W3JHljcw1D9bcSwJsEdxmqs5L4Wt_3yEs2bvDuR-Ijg/edit?slide=id.p#slide=id.p)
 
 ## Övrigt
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
