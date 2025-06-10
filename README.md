@@ -31,7 +31,7 @@
 
 ## Övningar
 * [Planned Planthood](https://github.com/Robert-Lexicon/Uppgift-PlannedPlanthood/blob/main/README.md)
-* [Flexbox Bootcamp]
+* [Flexbox Bootcamp](https://github.com/Lexicon-frontend-2024-2025/flexbox-bootcamp)
 * [Grid Bootcamp]
 
 ## Slides
