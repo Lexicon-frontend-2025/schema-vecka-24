@@ -46,3 +46,29 @@
 * [Onsdag](https://github.com/Robert-Lexicon/lektion-11-jun) - Grid, template, order, span, alignment osv. Jobb med Grid Bootcamp.
 * [Torsdag](https://github.com/Robert-Lexicon/lektion-12-jun) - Subgrid. Jobb med Flexbox Bootcamp, Grid Bootcamp och Planned Planthood.
 * [Fredag] - Code review på HTML på Planned Planthood. Eget arbete.
+
+---
+
+# 🤔 Reflektionsfrågor – Code Review för Planned Planthood
+
+Diskutera dessa frågor i smågrupper under er code review. Syftet är att reflektera över era val, utmaningar och lärdomar – både i HTML-strukturen och CSS-arbetet.
+
+---
+
+- Vad var tanken bakom semantiken i er HTML?
+- Behövde ni ändra i er HTML när ni började CSS:a, eller såg ni redan innan vad som skulle behövas?
+- Vad var klurigast under arbetet?
+- Känns koden lättläst?
+
+> 💬 Använd frågorna för att reflektera över era val och ert arbetssätt.
+
+---
+
+## ⭐️ Peer Feedback
+
+- Är det något i en annan klasskamrats lösning ni tycker var särskilt smart eller inspirerande?
+- Finns det något ni själva gärna vill ha feedback på från andra?
+
+---
+
+> 💬 Tips: Var konkreta men konstruktiva i era samtal. Målet är att bli bättre tillsammans – inte att göra "perfekt" kod!
