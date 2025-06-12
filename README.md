@@ -43,6 +43,6 @@
 ## Lektionsrepon
 * [Måndag](https://github.com/Lexicon-frontend-2025/lektion-9-juni) - Box model, Logical properties (Padding/margin/border-inline/block). Intro till Planned Planthood. 
 * [Tisdag](https://github.com/Lexicon-frontend-2025/lektion-10-juni) - Flexbox grunder. Justify, align m.m. Jobb med Flexbox Bootcamp.
-* [Onsdag] - Grid, template, order, span, alignment osv. Jobb med Grid Bootcamp.
-* [Torsdag] - Subgrid. Jobb med Flexbox Bootcamp, Grid Bootcamp och Planned Planthood.
+* [Onsdag](https://github.com/Robert-Lexicon/lektion-11-jun) - Grid, template, order, span, alignment osv. Jobb med Grid Bootcamp.
+* [Torsdag](https://github.com/Robert-Lexicon/lektion-12-jun) - Subgrid. Jobb med Flexbox Bootcamp, Grid Bootcamp och Planned Planthood.
 * [Fredag] - Code review på HTML på Planned Planthood. Eget arbete.
