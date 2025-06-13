@@ -1,7 +1,7 @@
 # SCHEMA VECKA 24
 Övergripande schema över veckan
 
-###### HTML/CSS, vecka 3 av 5
+###### HTML/CSS, vecka 3 av 4
 
 ## Mål för veckan
 1. Förstå hur boxmodellen fungerar i CSS, inklusive skillnaden mellan `content`, `padding`, `border` och `margin`, samt kunna använda `box-sizing` för att kontrollera layoutbeteende.  
